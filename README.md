@@ -21,13 +21,12 @@ A full-stack machine learning web app that predicts house prices based on key fe
 | Database    | PostgreSQL                      |
 
 ## 📷 Demo
+<img width="1280" alt="Screenshot 2025-05-25 at 9 13 16 AM" src="https://github.com/user-attachments/assets/803e5d41-24f0-4ae4-8a37-d48ccbc8cd83" />
 
-![App Screenshot](./public/demo.png)
 
-## 📦 Setup Instructions
+<img width="1024" alt="Screenshot 2025-05-25 at 9 07 09 AM" src="https://github.com/user-attachments/assets/508c529a-596e-4380-9c01-4e62714c8452" />
 
-### 1. Clone the Repository
+<img width="1272" alt="Screenshot 2025-05-25 at 9 06 36 AM" src="https://github.com/user-attachments/assets/0d7348e5-f2e8-43d2-8f23-87b59a19c045" />
 
-```bash
-git clone https://github.com/your-username/house-price-predictor.git
-cd house-price-predictor
+
+
