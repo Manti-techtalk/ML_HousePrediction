@@ -8,7 +8,7 @@ A full-stack machine learning web app that predicts house prices based on key fe
 - 🧠 Trained ML model using California housing data
 - 💾 Records predictions in a PostgreSQL database
 - ⚡ FastAPI backend with CORS enabled
-- 🎯 Fully responsive React (Next.js) frontend
+- 🎯React (Next.js) frontend
 - 🧪 Easy to test locally
 
 ## 🛠️ Tech Stack
