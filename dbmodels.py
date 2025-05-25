@@ -12,5 +12,5 @@ class House(Base):
     households = Column(String, nullable=False)
     median_income = Column(String, nullable=False)
     median_house_value = Column(String, nullable=False)
-    created_at = Column(DateTime, nullable=True)
-    updated_at = Column(DateTime, nullable=True)
+    created_at = Column(DateTime, nullable=True,)
+    updated_at = Column(DateTime, nullable=True,)

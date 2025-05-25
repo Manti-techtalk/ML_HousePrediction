@@ -1,16 +1,30 @@
 from fastapi import FastAPI, Depends
 from joblib import load
 from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware
 import numpy as np
 from sqlalchemy.orm import Session
 from database import engine, get_db, Base  # absolute imports
 import dbmodels
+
 
 # Create tables if they don't exist
 Base.metadata.create_all(bind=engine)
 
 app = FastAPI()
 
+origins = [
+    "http://localhost:3000",
+    "http://172.17.18.168:3000"
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 model = load('HousePrediction.joblib')
 
 class HousePredictionData(BaseModel):
