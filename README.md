@@ -21,7 +21,7 @@ A full-stack machine learning web app that predicts house prices based on key fe
 | Database    | PostgreSQL                      |
 
 ## 📷 Demo
-<img width="1280" alt="Screenshot 2025-05-25 at 9 13 16 AM" src="https://github.com/user-attachments/assets/803e5d41-24f0-4ae4-8a37-d48ccbc8cd83" />
+![Screenshot 2025-05-25 at 9 20 42 AM](https://github.com/user-attachments/assets/f445626c-44ed-4eb8-a829-77de1a5eb56c) 
 
 
 <img width="1024" alt="Screenshot 2025-05-25 at 9 07 09 AM" src="https://github.com/user-attachments/assets/508c529a-596e-4380-9c01-4e62714c8452" />
