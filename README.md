@@ -4,7 +4,7 @@ A full-stack machine learning web app that predicts house prices based on key fe
 
 ## 🚀 Features
 
-- 🌍 Real-time predictions of house prices
+- 🌍 Real-time predictions of house prices in California
 - 🧠 Trained ML model using California housing data
 - 💾 Records predictions in a PostgreSQL database
 - ⚡ FastAPI backend with CORS enabled
